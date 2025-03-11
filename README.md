@@ -26,7 +26,7 @@ Node.js (for frontend if applicable)
 
 Step 1: Clone the Repository
 
-git clone https://github.com/your-username/uni-search.git
+git clone (https://github.com/abhishek4me/uni_search)
 cd uni-search
 
 Step 2: Install Python Dependencies
